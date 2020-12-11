@@ -1,0 +1,11 @@
+.avatar{
+  background-color:blue;
+  color: white;
+  border-radius: 50%;
+  margin: 30px ;
+  margin-left: 85px;
+  padding: 1rem;
+  width: 80px;
+  text-align: center;
+}
+
